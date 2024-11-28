@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Node.js, TypeScript, Clojure, Python
+  🦄 Linguagens: Node.js, TypeScript, Clojure, Python 
 </p>
 
 <p align="left">
